@@ -1,4 +1,5 @@
-# mui-tpl
-A template for material-ui and next.js
+# Tategaki
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/ty-cs/mui-next-tpl)
+An experiment on tategaki (縦書き) on the Web.
+
+[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/ty-cs/Tategaki)

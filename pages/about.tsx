@@ -14,9 +14,7 @@ export default function About() {
         <Typography variant="h4" component="h1" gutterBottom>
           Next.js v5-beta with TypeScript example
         </Typography>
-        <Button variant="contained" component={Link} noLinkStyle href="/">
-          Go to the main page
-        </Button>
+        <Link href="/">Go to the main page</Link>
         <ProTip />
         <Copyright />
       </Box>
