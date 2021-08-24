@@ -54,7 +54,7 @@ export default function Index() {
               {ch}
             </Typography>
           ))}
-        </Box>{' '}
+        </Box>
         <Box sx={{ ml: 8 }}>
           {chapters.map((ch, i) => (
             <Typography key={i} style={styles} component="p">
