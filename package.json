@@ -7,7 +7,7 @@
     "@emotion/react": "latest",
     "@emotion/server": "latest",
     "@emotion/styled": "latest",
-    "@material-ui/core": "next",
+    "@mui/material": "^5.0.0",
     "clsx": "latest",
     "next": "latest",
     "react": "latest",
@@ -28,16 +28,16 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "@typescript-eslint/eslint-plugin": "^4.29.2",
-    "@typescript-eslint/parser": "^4.29.2",
+    "@typescript-eslint/eslint-plugin": "^4.31.1",
+    "@typescript-eslint/parser": "^4.31.1",
     "eslint": "^7.32.0",
-    "eslint-config-next": "^11.1.0",
+    "eslint-config-next": "^11.1.2",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.1",
-    "husky": "^7.0.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "husky": "^7.0.2",
     "lint-staged": "^11.1.2",
-    "prettier": "2.3.2",
-    "typescript": "^4.3.5"
+    "prettier": "2.4.1",
+    "typescript": "^4.4.3"
   },
   "lint-staged": {
     "*.@(ts|tsx)": [
